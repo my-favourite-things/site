@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.6cf7d376.css",
+    "main.js": "/site/static/js/main.6eba509e.js",
+    "static/media/nice-ducks.jpeg": "/site/static/media/nice-ducks.a273cd4575b62d125620.jpeg",
+    "static/media/naughty-ducks.jpeg": "/site/static/media/naughty-ducks.045eaa277f483b23888f.jpeg",
+    "static/media/bootstrap-icons.woff?": "/site/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/site/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/leaning-ducks.jpeg": "/site/static/media/leaning-ducks.c13574f12ca6198a3495.jpeg",
+    "static/media/hopping-duck.jpeg": "/site/static/media/hopping-duck.1a3c6d390ccd8ba3f2e2.jpeg",
+    "static/media/duck-crew.jpeg": "/site/static/media/duck-crew.752e0d5048dbc8695708.jpeg",
+    "static/media/smiling-duck.jpeg": "/site/static/media/smiling-duck.9c5c220425c1827ab9bc.jpeg",
+    "index.html": "/site/index.html",
+    "main.6cf7d376.css.map": "/site/static/css/main.6cf7d376.css.map",
+    "main.6eba509e.js.map": "/site/static/js/main.6eba509e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf7d376.css",
+    "static/js/main.6eba509e.js"
+  ]
+}
