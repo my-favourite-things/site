@@ -1,0 +1,7 @@
+:root {
+  --lavendar: #86c;
+}
+
+.bg-lavendar {
+  background-color: var(--lavendar) !important;
+}
