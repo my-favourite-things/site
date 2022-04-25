@@ -1,13 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { HashRouter, Routes, Route } from 'react-router-dom';
-import NavBar from './components/Navbar';
-import Home from './pages/Home';
-import Ducks from './pages/Ducks';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/js/bootstrap.js';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import { HashRouter, Routes, Route } from 'react-router-dom'
+import NavBar from './components/Navbar'
+import Home from './pages/Home'
+import Ducks from './pages/Ducks'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/js/bootstrap.js'
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import './index.css';
+import './index.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 

@@ -1,6 +1,6 @@
-import React from 'react';
-import Gallery from '../components/Gallery';
-import { duckImages } from '../data/duckImages';
+import React from 'react'
+import Gallery from '../components/Gallery'
+import { duckImages } from '../data/duckImages'
 
 function Ducks() {
   return (

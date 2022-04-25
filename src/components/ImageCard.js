@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'react'
 import './ImageCard.css'
 
 function ImageCard({src, title, description}) {
